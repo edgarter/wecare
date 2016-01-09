@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="browser-redirect.php" server="ftp.al-zahira.org" local="130801727270200175" remote="130801626600000000" Dst="2" />
+<file name="cache.php" server="ftp.al-zahira.org" local="130801727237408299" remote="130801626600000000" Dst="2" />
+<file name="constants.php" server="ftp.al-zahira.org" local="130801727221637397" remote="130801626600000000" Dst="2" />
+<file name="functions-debug-information.php" server="ftp.al-zahira.org" local="130801727266119942" remote="130801626600000000" Dst="2" />
+<file name="functions-load.php" server="ftp.al-zahira.org" local="130801727209726716" remote="130801626600000000" Dst="2" />
+<file name="functions-network.php" server="ftp.al-zahira.org" local="130801727276000507" remote="130801626600000000" Dst="2" />
+<file name="functions-security.php" server="ftp.al-zahira.org" local="130801727283980963" remote="130801626600000000" Dst="2" />
+<file name="functions-troubleshooting.php" server="ftp.al-zahira.org" local="130801727254109255" remote="130801626600000000" Dst="2" />
+<file name="functions.php" server="ftp.al-zahira.org" local="130801727263829811" remote="130801626600000000" Dst="2" />
+<file name="icl-admin-notifier.php" server="ftp.al-zahira.org" local="130801727230747918" remote="130801626600000000" Dst="2" />
+<file name="import-xml.php" server="ftp.al-zahira.org" local="130801727242478589" remote="130801627200000000" Dst="2" />
+<file name="hacks.php" server="ftp.al-zahira.org" local="130801727205726487" remote="130801627200000000" Dst="2" />
+<file name="lang-data.php" server="ftp.al-zahira.org" local="130801727260059595" remote="130801627200000000" Dst="2" />
+<file name="language-switcher.php" server="ftp.al-zahira.org" local="130801727243558651" remote="130801627200000000" Dst="2" />
+<file name="not-compatible-plugins.php" server="ftp.al-zahira.org" local="130801727257919473" remote="130801627200000000" Dst="2" />
+<file name="plugin-integration-nextgen.php" server="ftp.al-zahira.org" local="130801727272150286" remote="130801627200000000" Dst="2" />
+<file name="plugins-integration.php" server="ftp.al-zahira.org" local="130801727289971306" remote="130801627200000000" Dst="2" />
+<file name="pointers.php" server="ftp.al-zahira.org" local="130801727211616824" remote="130801627200000000" Dst="2" />
+<file name="quote.php" server="ftp.al-zahira.org" local="130801727248298922" remote="130801627200000000" Dst="2" />
+<file name="template-constants.php" server="ftp.al-zahira.org" local="130801727278130629" remote="130801627200000000" Dst="2" />
+<file name="template-functions.php" server="ftp.al-zahira.org" local="130801727288791238" remote="130801627200000000" Dst="2" />
+<file name="upgrade.php" server="ftp.al-zahira.org" local="130801727215467044" remote="130801627800000000" Dst="2" />
+<file name="wp-login-filters.php" server="ftp.al-zahira.org" local="130801727236668257" remote="130801627800000000" Dst="2" />
+<file name="wpml-api.php" server="ftp.al-zahira.org" local="130801727294781581" remote="130801627800000000" Dst="2" />
+<file name="wpml-private-actions.php" server="ftp.al-zahira.org" local="130801727223557507" remote="130801627800000000" Dst="2" />
+<file name="wpml-post-edit-ajax.class.php" server="ftp.al-zahira.org" local="130801727282040852" remote="130801627800000000" Dst="2" />
+<file name="wpml-post-comments.class.php" server="ftp.al-zahira.org" local="130801727249418986" remote="130801627800000000" Dst="2" />
+<file name="wpseo-sitemaps-filter.php" server="ftp.al-zahira.org" local="130801727217537163" remote="130801627800000000" Dst="2" />
+</dwsync>
